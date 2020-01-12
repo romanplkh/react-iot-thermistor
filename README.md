@@ -2,6 +2,8 @@
 
 Greenhouse live temperature mesurement analytics
 
+### Live version of client-side application you may find [here](https://celcius-tech.herokuapp.com/)
+
 ## Description
 
 IoT React.js client application that subscribes to a topic on MQTT Broker and reads LIVE data from topic channel. In a particlar case application reads LIVE temperature mesurements in a greenhouse and displays analytics in a dynamic chart.
@@ -34,3 +36,7 @@ Thank you [Chris Cusak](https://github.com/chrisecusack) for helping out with in
 
 Copyright © by Roman Pelikh. You are 100% allowed to use this application for both personal or commercial use, but NOT to claim it as your own project.
 A credit to the original author, Roman Pelikh, is of course highly appreciated!
+
+### Languages and Technologies used:
+
+React.js, Eclipse PAHO MQTT, Erlang MQTT, CSS
