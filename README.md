@@ -8,7 +8,8 @@ Greenhouse live temperature mesurement analytics
 
 IoT React.js client application that subscribes to a topic on MQTT Broker and reads LIVE data from topic channel. In a particlar case application reads LIVE temperature mesurements in a greenhouse and displays analytics in a dynamic chart.
 
-This client application is only a part of the whole system of temperature mesurement analytics. The server side of the application your can find [here](https://github.com/romanplkh/java-iot-thermistor)
+This client application is only a part of the whole system of temperature mesurement analytics. 
+**The server side of the application your can find [here](https://github.com/romanplkh/java-iot-thermistor)**
 
 Inspired by previous hack-a-thons, application was created with intent of learning more about IoT, network programming.
 
