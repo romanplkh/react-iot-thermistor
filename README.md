@@ -1,17 +1,19 @@
 # Celcius-tech (Thermistor) application
 
-Greenhouse live temperature mesurement analytics
+https://www.youtube.com/watch?v=CdyLoBUuPCU&feature=emb_logo
+
+Greenhouse live temperature measurement analytics
 
 ### Live version of client-side application you may find [here](https://celcius-tech.herokuapp.com/)
 
 ## Description
 
-IoT React.js client application that subscribes to a topic on MQTT Broker and reads LIVE data from topic channel. In a particlar case application reads LIVE temperature mesurements in a greenhouse and displays analytics in a dynamic chart.
+IoT React.js client application that subscribes to a topic on MQTT Broker and reads LIVE data from the topic channel. In a particular case, the application reads LIVE temperature measurements in a greenhouse and displays analytics in a dynamic chart.
 
-This client application is only a part of the whole system of temperature mesurement analytics. 
-**The server side of the application your can find [here](https://github.com/romanplkh/java-iot-thermistor)**
+This client application is only a part of the whole system of temperature measurement analytics. 
+**The server side of the application you can find [here](https://github.com/romanplkh/java-iot-thermistor)**
 
-Inspired by previous hack-a-thons, application was created with intent of learning more about IoT, network programming.
+Inspired by previous hack-a-thons, the application was created with the intent of learning more about IoT, network programming.
 
 ## Installation
 
@@ -25,9 +27,9 @@ Inspired by previous hack-a-thons, application was created with intent of learni
 
 - Fork and clone application
 - Install dependencies
-- Since it is only client side of a system, you need to clone and fork server side from my another repo [java-iot-thermistor](https://github.com/romanplkh/java-iot-thermistor) with additional instructions
+- Since it is the client-side of a system, you need to clone and fork server-side from my other repo [java-iot-thermistor](https://github.com/romanplkh/java-iot-thermistor) with additional instructions
 
-- To be able to read data from MQTT server you will need an instance of MQTT Broker running on your localhost. You may download a version of an open source MQTT Broker from [here](http://emqtt.io/downloads/)
+- To be able to read data from MQTT server you will need an instance of MQTT Broker running on your localhost. You may download a version of an open-source MQTT Broker from [here](http://emqtt.io/downloads/)
 
 ## Credits:
 
