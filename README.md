@@ -33,7 +33,7 @@ Inspired by previous hack-a-thons, the application was created with the intent o
 
 ## Credits:
 
-Thank you [Chris Cusak](https://github.com/chrisecusack) for helping out with installation and configuration instructions for [EMQTT Broker](http://emqtt.io)
+Thank you [Chris Cusack](https://github.com/chrisecusack) for helping out with installation and configuration instructions for [EMQTT Broker](http://emqtt.io)
 
 ## License:
 
